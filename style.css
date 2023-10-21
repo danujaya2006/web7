@@ -1,0 +1,27 @@
+.background{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("background.png");
+    background-size: cover;
+    position: absolute;
+}
+
+.body{
+    margin: 0px;
+}
+
+.player{
+    width: 250px;
+    margin-top: 350px;
+    position: absolute;
+    
+}
+
+.block{
+    background-image: url("flame.gif");
+    background-size: cover;
+    width: 90px;
+    height: 150px;
+    position: absolute;
+    margin-top: 420px;
+}
